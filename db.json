@@ -1,0 +1,40 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "image": "1.png",
+      "title": "Cycling",
+      "description": "Perfect features for fitness and gym..."
+    },
+    {
+      "id": 2,
+      "image": "2.png",
+      "title": "Cycling",
+      "description": "Perfect features for fitness and gym..."
+    },
+    {
+      "id": 3,
+      "image": "3.png",
+      "title": "Cycling",
+      "description": "Perfect features for fitness and gym..."
+    },
+    {
+      "id": 4,
+      "image": "4.png",
+      "title": "Cycling",
+      "description": "Perfect features for fitness and gym..."
+    },
+    {
+      "id": 5,
+      "image": "5.png",
+      "title": "Cycling",
+      "description": "Perfect features for fitness and gym..."
+    },
+    {
+      "id": 6,
+      "image": "6.png",
+      "title": "Cycling",
+      "description": "Perfect features for fitness and gym..."
+    }
+  ]
+}
